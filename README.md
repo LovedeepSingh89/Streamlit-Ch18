@@ -11,5 +11,5 @@ Streamlit version 1.21.0 was used for the front-end application.
 
 The image below shows the blockchain ledger with 3 entries made.
 
-<img src="/Users/lovedeepsingh/Desktop/CH_18/Streamlit-Ch18/screenshot.jpeg"/>
+<p style="text-align:center;"><img src="/Users/lovedeepsingh/Desktop/CH_18/Streamlit-Ch18/screenshot.jpeg"/>" width="800" height="400"/></p>
 
